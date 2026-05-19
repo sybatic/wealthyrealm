@@ -16,7 +16,7 @@ function App() {
     {
       id: 'food',
       title: 'Food Delivery',
-      subtitle: 'WealthRim Eats',
+      subtitle: 'WealthyRealm Eats',
       description: 'Fast, fresh, and reliable food delivery connecting local restaurants to homes and offices across the region.',
       image: '/images/food-delivery.jpg',
       color: 'from-emerald-600 to-green-700',
@@ -27,7 +27,7 @@ function App() {
     {
       id: 'fabric',
       title: 'Fabric Delivery',
-      subtitle: 'WealthRim Textiles',
+      subtitle: 'WealthyRealm Textiles',
       description: 'Premium African fabrics, textiles, and fashion materials delivered to designers, retailers, and manufacturers.',
       image: '/images/fabric.jpg',
       color: 'from-red-600 to-rose-700',
@@ -38,7 +38,7 @@ function App() {
     {
       id: 'realestate',
       title: 'Real Estate',
-      subtitle: 'WealthRim Properties',
+      subtitle: 'WealthyRealm Properties',
       description: 'Developing affordable housing, commercial spaces, and government infrastructure projects across Africa.',
       image: '/images/realestate.jpg',
       color: 'from-lime-500 to-yellow-500',
