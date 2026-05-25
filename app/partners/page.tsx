@@ -60,7 +60,7 @@ const testimonials = [
   {
     name: 'Sarah Johnson',
     role: 'Owner, Lagos Bistro',
-    content: 'Partnering with WealthRim Eats increased our delivery orders by 340%. Their platform is intuitive and their support team is exceptional.',
+    content: 'Partnering with WealthRealm Eats increased our delivery orders by 340%. Their platform is intuitive and their support team is exceptional.',
     rating: 5,
     type: 'Restaurant Partner',
     image: '/images/partner-testimonial1.jpg'
@@ -68,7 +68,7 @@ const testimonials = [
   {
     name: 'Michael Okafor',
     role: 'CEO, AfroChic Designs',
-    content: 'WealthRim Textiles opened up international markets for our fabrics. We now export to 12 countries through their platform.',
+    content: 'WealthRealm Textiles opened up international markets for our fabrics. We now export to 12 countries through their platform.',
     rating: 5,
     type: 'Fabric Partner',
     image: '/images/partner-testimonial2.jpg'
@@ -76,7 +76,7 @@ const testimonials = [
   {
     name: 'Dr. James Mwangi',
     role: 'Ministry of Housing, Kenya',
-    content: 'The PPP partnership with WealthRim Properties delivered 500 affordable homes ahead of schedule and under budget.',
+    content: 'The PPP partnership with WealthRealm Int Properties delivered 500 affordable homes ahead of schedule and under budget.',
     rating: 5,
     type: 'Government Partner',
     image: '/images/partner-testimonial3.jpg'
@@ -253,7 +253,7 @@ export default function PartnersPage() {
       <div className="py-20 bg-white">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl lg:text-4xl font-bold mb-4">Why Partner With WealthRim?</h2>
+            <h2 className="text-3xl lg:text-4xl font-bold mb-4">Why Partner With WealthRealm Int?</h2>
             <p className="text-lg text-zinc-600">Benefits that help your business grow</p>
           </div>
 
@@ -291,7 +291,7 @@ export default function PartnersPage() {
         <div className="max-w-[1400px] mx-auto px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold mb-4">What Our Partners Say</h2>
-            <p className="text-lg text-zinc-600">Hear from businesses already growing with WealthRim</p>
+            <p className="text-lg text-zinc-600">Hear from businesses already growing with WealthRealm Int</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -352,7 +352,7 @@ export default function PartnersPage() {
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>partners@wealthrim.com</span>
+                <span>partners@WealthRealm Int.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <Calendar className="w-4 h-4" />
