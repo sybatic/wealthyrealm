@@ -14,21 +14,21 @@ const milestones = [
   {
     year: 2012,
     title: 'Company Founded',
-    description: 'WealthRim Group launches with food delivery pilot in Lagos, Nigeria',
+    description: 'WealthRealm Int launches with food delivery pilot in Lagos, Nigeria',
     icon: Rocket,
     color: 'emerald'
   },
   {
     year: 2015,
     title: 'Expansion to Fabric',
-    description: 'Launched WealthRim Textiles, entering the fabric supply chain market',
+    description: 'Launched WealthRealm Int Textiles, entering the fabric supply chain market',
     icon: Briefcase,
     color: 'red'
   },
   {
     year: 2018,
     title: 'Real Estate Division',
-    description: 'WealthRim Properties founded, beginning affordable housing projects',
+    description: 'WealthRealm Int Properties founded, beginning affordable housing projects',
     icon: Building2,
     color: 'lime'
   },
@@ -144,7 +144,7 @@ export default function AboutPage() {
         <div className="absolute inset-0">
           <img 
             src="/images/about-hero.jpg" 
-            alt="About WealthRim Group" 
+            alt="About WealthRealm Int" 
             className="w-full h-full object-cover opacity-20"
           />
         </div>
@@ -164,7 +164,7 @@ export default function AboutPage() {
             animate={{ y: 0, opacity: 1 }}
             className="text-5xl lg:text-7xl font-bold mb-4"
           >
-            About WealthRim
+            About WealthRealm Int
           </motion.h1>
           <motion.p
             initial={{ y: 30, opacity: 0 }}
@@ -192,7 +192,7 @@ export default function AboutPage() {
               </div>
               <h2 className="text-3xl lg:text-4xl font-bold mb-6">From a Single Pilot to a Pan-African Powerhouse</h2>
               <p className="text-zinc-600 mb-6 leading-relaxed text-lg">
-                WealthRim Group started in 2012 with a simple idea: build technology-powered infrastructure 
+                WealthRealm Int started in 2012 with a simple idea: build technology-powered infrastructure 
                 that serves all Africans. What began as a food delivery pilot in Lagos has grown into a 
                 multi-sector group operating in 18 countries.
               </p>
@@ -224,7 +224,7 @@ export default function AboutPage() {
               <div className="relative h-[400px] rounded-2xl overflow-hidden shadow-2xl">
                 <img 
                   src="/images/office-building.jpg" 
-                  alt="WealthRim Headquarters" 
+                  alt="WealthRealm Int Headquarters" 
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -443,7 +443,7 @@ export default function AboutPage() {
             >
               <h2 className="text-3xl lg:text-4xl font-bold mb-6">Pan-African Presence</h2>
               <p className="text-zinc-600 mb-6 leading-relaxed text-lg">
-                With operations in 18 countries and growing, WealthRim Group is building a truly pan-African 
+                With operations in 18 countries and growing, WealthRealm Int is building a truly pan-African 
                 infrastructure network.
               </p>
               <div className="space-y-4 mb-8">
@@ -476,7 +476,7 @@ export default function AboutPage() {
               <div className="relative h-[400px] rounded-2xl overflow-hidden shadow-2xl">
                 <img 
                   src="/images/africa-map.jpg" 
-                  alt="WealthRim Presence in Africa" 
+                  alt="WealthRealm Int Presence in Africa" 
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -496,7 +496,7 @@ export default function AboutPage() {
           >
             <h2 className="text-3xl lg:text-4xl font-bold mb-4">Join Us in Building Africa's Future</h2>
             <p className="text-lg text-white/90 mb-8 max-w-2xl mx-auto">
-              Whether you're an investor, partner, or team member — there's a place for you at WealthRim Group
+              Whether you're an investor, partner, or team member — there's a place for you at WealthRealm Int
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <Link href="/invest" className="px-8 py-3 bg-white text-zinc-900 rounded-full font-semibold hover:bg-zinc-100 transition-colors inline-flex items-center gap-2">
